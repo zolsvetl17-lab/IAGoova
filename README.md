@@ -36,7 +36,7 @@ Random Task Generator — это простое графическое прил�
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/zolsvetl17-lab/IAShogenov.git
+   git clone https://github.com/zolsvetl17-lab/IAGoova.git
    cd RandomTaskGenerator
 2. Запустите приложение:
    ```bash
