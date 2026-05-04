@@ -22,5 +22,5 @@
 1. **Установите Python** (версия 3.6 или выше).
 2. **Клонируйте репозиторий:**
    ```bash
-   git clone https://github.com/ваш_username/weather-diary.git
+   git clone https://github.com/zolsvetl17-lab/weather-diary.git
    cd weather-diary
